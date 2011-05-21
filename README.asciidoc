@@ -1,0 +1,9 @@
+== Let me teach you how to fish or: how to run a successful Free Software mentoring program
+
+This guide tries to help Free Software projects set up and run a successful mentoring program.
+
+This book is written using using the git-scribe toolchain, which can be found at: http://github.com/schacon/git-scribe
+
+Please fork and send merge requests :)
+
+The finished document can be found at http://gitscribe.com/lydiapintscher/howto-mentoring-programs/ in various formats.
